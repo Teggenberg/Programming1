@@ -1,0 +1,16 @@
+C:\Users\timeg\Desktop\PG1\lab1_4\lab1_4\obj\Debug\lab1_4.csproj.AssemblyReference.cache
+C:\Users\timeg\Desktop\PG1\lab1_4\lab1_4\obj\Debug\lab1_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\timeg\Desktop\PG1\lab1_4\lab1_4\obj\Debug\lab1_4.csproj.CoreCompileInputs.cache
+C:\Users\timeg\Desktop\PG1\lab1_4\lab1_4\bin\Debug\lab1_4.exe.config
+C:\Users\timeg\Desktop\PG1\lab1_4\lab1_4\bin\Debug\lab1_4.exe
+C:\Users\timeg\Desktop\PG1\lab1_4\lab1_4\bin\Debug\lab1_4.pdb
+C:\Users\timeg\Desktop\PG1\lab1_4\lab1_4\obj\Debug\lab1_4.exe
+C:\Users\timeg\Desktop\PG1\lab1_4\lab1_4\obj\Debug\lab1_4.pdb
+C:\Users\timeg\Desktop\PG1\week 1 Labs\EggenbergerTim_Lab1\EggenbergerTim_Lab1\lab1_4\bin\Debug\lab1_4.exe.config
+C:\Users\timeg\Desktop\PG1\week 1 Labs\EggenbergerTim_Lab1\EggenbergerTim_Lab1\lab1_4\bin\Debug\lab1_4.exe
+C:\Users\timeg\Desktop\PG1\week 1 Labs\EggenbergerTim_Lab1\EggenbergerTim_Lab1\lab1_4\bin\Debug\lab1_4.pdb
+C:\Users\timeg\Desktop\PG1\week 1 Labs\EggenbergerTim_Lab1\EggenbergerTim_Lab1\lab1_4\obj\Debug\lab1_4.csproj.AssemblyReference.cache
+C:\Users\timeg\Desktop\PG1\week 1 Labs\EggenbergerTim_Lab1\EggenbergerTim_Lab1\lab1_4\obj\Debug\lab1_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\timeg\Desktop\PG1\week 1 Labs\EggenbergerTim_Lab1\EggenbergerTim_Lab1\lab1_4\obj\Debug\lab1_4.csproj.CoreCompileInputs.cache
+C:\Users\timeg\Desktop\PG1\week 1 Labs\EggenbergerTim_Lab1\EggenbergerTim_Lab1\lab1_4\obj\Debug\lab1_4.exe
+C:\Users\timeg\Desktop\PG1\week 1 Labs\EggenbergerTim_Lab1\EggenbergerTim_Lab1\lab1_4\obj\Debug\lab1_4.pdb
