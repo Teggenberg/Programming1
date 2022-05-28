@@ -26,3 +26,11 @@ C:\Users\timeg\Desktop\PG1\week 3 Labs\Lab9A\Lab 9A\Lab 9\obj\Debug\Lab 9A.cspro
 C:\Users\timeg\Desktop\PG1\week 3 Labs\Lab9A\Lab 9A\Lab 9\obj\Debug\Lab 9A.csproj.CoreCompileInputs.cache
 C:\Users\timeg\Desktop\PG1\week 3 Labs\Lab9A\Lab 9A\Lab 9\obj\Debug\Lab 9.exe
 C:\Users\timeg\Desktop\PG1\week 3 Labs\Lab9A\Lab 9A\Lab 9\obj\Debug\Lab 9.pdb
+C:\Users\timeg\Programming1\EggenbergerTim_Lab9A\Lab9A\Lab 9A\Lab 9\bin\Debug\Lab 9.exe.config
+C:\Users\timeg\Programming1\EggenbergerTim_Lab9A\Lab9A\Lab 9A\Lab 9\bin\Debug\Lab 9.exe
+C:\Users\timeg\Programming1\EggenbergerTim_Lab9A\Lab9A\Lab 9A\Lab 9\bin\Debug\Lab 9.pdb
+C:\Users\timeg\Programming1\EggenbergerTim_Lab9A\Lab9A\Lab 9A\Lab 9\obj\Debug\Lab 9A.csproj.AssemblyReference.cache
+C:\Users\timeg\Programming1\EggenbergerTim_Lab9A\Lab9A\Lab 9A\Lab 9\obj\Debug\Lab 9A.csproj.SuggestedBindingRedirects.cache
+C:\Users\timeg\Programming1\EggenbergerTim_Lab9A\Lab9A\Lab 9A\Lab 9\obj\Debug\Lab 9A.csproj.CoreCompileInputs.cache
+C:\Users\timeg\Programming1\EggenbergerTim_Lab9A\Lab9A\Lab 9A\Lab 9\obj\Debug\Lab 9.exe
+C:\Users\timeg\Programming1\EggenbergerTim_Lab9A\Lab9A\Lab 9A\Lab 9\obj\Debug\Lab 9.pdb

@@ -12,7 +12,6 @@ namespace Lab_9A
 
         public static Student Test1(string last, string first, int idNo)
         {
-
             Student s1 = new Student(last, first, idNo);
             return s1;
         }
@@ -25,7 +24,6 @@ namespace Lab_9A
 
         public static bool Test3(Student enrolled)
         {
-
             bool enroll = true;
             
             for (int i = 0; i < enrollment.Length; i++)
@@ -55,7 +53,6 @@ namespace Lab_9A
                 {
                     int check = enrollment[i].GetIDNumber();
 
-
                     if (check == idNumber)
                     {
                         enrollment[i] = null;
@@ -66,9 +63,6 @@ namespace Lab_9A
                         enroll = false;
                     }
                 }
-                
-                
-
             }
             return enroll;
         }
@@ -78,17 +72,12 @@ namespace Lab_9A
             bool exists = true;
             int count = 0;
 
-
             for (int i = 0; i < enrollment.Length; i++)
             {
-                
-
                 if (enrollment[i] != null)
                 {
                     int check = enrollment[i].GetIDNumber();
                     
-
-
                     if (check == idNumber)
                     {
                         return enrollment[i];
@@ -100,15 +89,9 @@ namespace Lab_9A
                         exists = false;
                     }
                 }
-
-                
-
             }
             if (exists) return enrollment[count];
             else return null;
-
-
-
         }
     }
 }
